@@ -14,4 +14,10 @@ Thumbs.db
 Main App/data.db
 
 # Logs
-*.log
+*.log.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+/Main App/.venv/
